@@ -1,2 +1,2 @@
-# picture
-图床
+作为markdown图床使用
+密钥是：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
